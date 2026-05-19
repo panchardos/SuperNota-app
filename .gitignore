@@ -2,3 +2,5 @@
 .DS_Store
 # Ignorar archivos de logs
 *.log
+# Ignorar el borrame.txt
+borrame.txt
